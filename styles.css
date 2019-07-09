@@ -21,3 +21,25 @@
     background: whitesmoke;
     color: black;
 }
+
+
+
+
+
+
+
+
+#div-10{
+
+  background: red;
+  justify-content: left;
+  display: flex;
+  font-display: centered;
+  border-block: black;
+
+  max-width: 100%;
+
+}
+#div-10 figure figcaption{
+
+}
